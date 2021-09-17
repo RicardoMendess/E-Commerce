@@ -1,0 +1,60 @@
+a { color: black;}
+.divisor_primario {
+    padding: 0 3em;
+}
+.carousel {
+    width: 500px;
+    margin: auto;
+}
+#logo {
+    font-weight: bold;
+    font-size: 2em; 
+    font-style: italic;
+}
+#cordas {
+    padding: 2em 0;
+}
+
+#percussao {
+    padding: 2em 0;
+}
+
+#sopros {
+    padding: 2em 0;
+}
+.divisor_interno {
+    padding: 4em 4em;
+}
+.col-sm {
+    border: hidden;
+    border-radius: 2em;
+    border-color: #000000;
+    text-align: center;
+}
+#btn_divisor:hover {
+    transform: rotateX(4px);
+}
+.hr3 {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+}
+.rodape {
+    background: url("bg.jpg");
+}
+.rodape li {
+    color: #ffffff;
+    padding: 1em;
+}
+#nossos_produtos {
+    color: #ffffff;
+}
+#redes_sociais {
+    color: #ffffff;
+}
+#institucional {
+    color: #ffffff;
+}
+#link_facebook {
+    color: #ffffff;
+}
