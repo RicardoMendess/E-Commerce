@@ -45,7 +45,8 @@ Planejamento:
     To do: - Criar uma página index.html.
     To do: - Criar um menu navegação com acesso para produtos e página institucional.
 
-    Sprint "Time One": 1 dia.
+    Sprint "Time One": Iniciado: 12/09/2021 Hora: 09:05/ Concluído: 13/09/2021 22:52.
+    
     Done: - Criar uma página index.html.
           - Criar um menu navegação com acesso para produtos e página isntitucional.
 * Sprint Planning 2:
@@ -54,7 +55,7 @@ Planejamento:
     To do: - Criar uma vitrine com produtos exibidos.
     To do: - Colocar descrição dos produtos favoritos.
 
-    Sprint "Time Two": 1 dia.
+    Sprint "Time Two": Iniciado: 14/09/2021 Hora: 10:13/ Concluído: 15/09/2021 17:52.
 
     Done: - Criar uma vitrine com produtos exibidos.
           - Colocar descrição dos produtos favoritos.
@@ -66,7 +67,7 @@ Planejamento:
     To do: - Criar um espaço para contato e redes sociais.
     To do: - Criar um espaço para colocar um mapa de acesso à localização da loja.
 
-    Sprint "Time Three": 1 dia.
+    Sprint "Time Three": Iniciado: 15/09/2021 Hora: 19:05/ Concluído: 15/09/2021 23:25.
 
     Done: - Criar um rodapé com fundo preto.
           - Criar um menu de navegação por links para cada parte da loja.
@@ -89,7 +90,7 @@ Sprint Planning 4:
 Sprint Goals:
     To do: - Aproveitado o layout do menu navegação da página principal.
 
-    Sprint "Time four": 1 dia.
+    Sprint "Time four": Iniciado: 16/09/2021 Hora: 07:20/ Concluído: 16/09/2021 08:40.
     
     Done: - Aproveitado o layout do menu navegação da página principal.
 Sprint Planning 5:
@@ -98,7 +99,7 @@ Sprint Goals:
     To do: - Criar uma tabela com itens de produtos a serem exibidos.
     To do: - Adicionar links para conectar esses produtos a suas respectivas páginas.
 
-    Sprint "Time five": 2 dias.
+    Sprint "Time five": Iniciado: 16/09/2021 Hora: 10:00/ Concluído: 16/09/2021 17:50.
 
     Done: - Criar uma tabela com itens de produtos a serem exibidos.
           - Adicionar links para conectar esses produtos a suas respectivas páginas.
@@ -107,7 +108,7 @@ Sprint Planning 6:
 Sprint Goals:
     To do: - Aproveitado o layout da tag footer da página principal.
 
-    Sprint "Time six": 1 dia.
+    Sprint "Time six": Iniciado: 16/09/2021 Hora: 18:30/ Concluído: 16/09/2021 19:30.
 
     Done: Aproveitado o layout da tag footer da página principal.
 
@@ -126,7 +127,7 @@ Sprint Planning 7:
 Sprint Goals:
     To do: - Aproveitado o layout do menu navegação da página principal.
 
-    Sprint "Time seven": 1 dia.
+    Sprint "Time seven": Iniciado: 16/09/2021 Hora: 20:12/ Concluído: 16/09/2021 21:02.
 
     Done: - Aproveitado o layout do menu navegação da página principal.
 Sprint Planning 8:
@@ -135,7 +136,7 @@ Sprint Goals:
     To do: - Adicionar um background de imagem modern music.
     To do: - Adicionar uma mensagem sobre os princípios da empresa.
 
-    Sprint "Time eight": 1 dia.
+    Sprint "Time eight": Iniciado: 16/09/2021 Hora: 21:41/ Concluído: 16/09/2021 22:20.
 
     Done: - Adicionar um background de imagem modern music.
           - Adicionar uma mensagem sobre os princípios da empresa.
@@ -144,6 +145,6 @@ Sprint Planning 9:
 Sprint Goals:
     To do: - Aproveitado o layout da tag footer da página principal.
 
-    Sprint "Time nine": 1 dia.
+    Sprint "Time nine": Iniciado: 16/09/2021 Hora: 23:11/ Concluído: 16/09/2021 23:30.
 
     Done: - Aproveitado o layout da tag footer da página principal.
