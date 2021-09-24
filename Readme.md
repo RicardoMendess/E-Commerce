@@ -1,4 +1,6 @@
 Site: https://guiadamusica.netlify.app/
+
+
 Repositório do projeto do primeiro desafio individual do XP 39 da Gama Academy.
 
 Planejamento:
