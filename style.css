@@ -40,7 +40,7 @@ a { color: black;}
     background-image: linear-gradient(to right, transparent, #CCC, transparent);  
 }
 .rodape {
-    background: url("../imagens/bg.jpg");
+    background: url("bg.jpg");
 }
 .rodape li {
     color: #ffffff;
