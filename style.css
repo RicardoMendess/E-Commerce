@@ -3,7 +3,7 @@ a { color: black;}
     padding: 0 3em;
 }
 .carousel {
-    width: 500px;
+    max-width: 500px;
     margin: auto;
 }
 #logo {
@@ -176,4 +176,8 @@ a { color: black;}
         width: 100%;
         font-size: 2em;
     }
+}
+.fundo_cabecalho ul li {
+    margin: 0 auto;
+    padding: 0 5em;
 }
