@@ -46,10 +46,7 @@ Planejamento:
     To do: - Criar um menu navegação com acesso para produtos e página institucional.
 
     Sprint "Time One": Iniciado: 12/09/2021 Hora: 09:05/ Concluído: 13/09/2021 22:52.
-<<<<<<< HEAD:paginas_navegacao/Readme.md
-=======
     
->>>>>>> bfcf8abc864067bb4e969d71d4b004c982218a79:Readme.md
     Done: - Criar uma página index.html.
           - Criar um menu navegação com acesso para produtos e página isntitucional.
 * Sprint Planning 2:
@@ -111,11 +108,7 @@ Sprint Planning 6:
 Sprint Goals:
     To do: - Aproveitado o layout da tag footer da página principal.
 
-<<<<<<< HEAD:paginas_navegacao/Readme.md
-    Sprint "Time six": 16/09/2021 Hora: 18:30/ Concluído: 16/09/2021 19:30.
-=======
     Sprint "Time six": Iniciado: 16/09/2021 Hora: 18:30/ Concluído: 16/09/2021 19:30.
->>>>>>> bfcf8abc864067bb4e969d71d4b004c982218a79:Readme.md
 
     Done: Aproveitado o layout da tag footer da página principal.
 
@@ -152,10 +145,6 @@ Sprint Planning 9:
 Sprint Goals:
     To do: - Aproveitado o layout da tag footer da página principal.
 
-<<<<<<< HEAD:paginas_navegacao/Readme.md
-    Sprint "Time nine":  Iniciado: 16/09/2021 Hora: 23:11/ Concluído: 16/09/2021 23:30.
-=======
     Sprint "Time nine": Iniciado: 16/09/2021 Hora: 23:11/ Concluído: 16/09/2021 23:30.
->>>>>>> bfcf8abc864067bb4e969d71d4b004c982218a79:Readme.md
 
     Done: - Aproveitado o layout da tag footer da página principal.
