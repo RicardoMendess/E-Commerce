@@ -1,0 +1,179 @@
+a { color: black;}
+.divisor_primario {
+    padding: 0 3em;
+}
+.carousel {
+    width: 500px;
+    margin: auto;
+}
+#logo {
+    font-weight: bold;
+    font-size: 2em; 
+    font-style: italic;
+}
+#cordas {
+    padding: 2em 0;
+}
+
+#percussao {
+    padding: 2em 0;
+}
+
+#sopros {
+    padding: 2em 0;
+}
+.divisor_interno {
+    padding: 4em 4em;
+}
+.col-sm {
+    border: hidden;
+    border-radius: 2em;
+    border-color: #000000;
+    text-align: center;
+}
+#btn_divisor:hover {
+    transform: rotateX(4px);
+}
+.hr3 {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, transparent, #CCC, transparent);  
+}
+.rodape {
+    background: url("../imagens/bg.jpg");
+}
+.rodape li {
+    color: #ffffff;
+    padding: 1em;
+}
+#nossos_produtos {
+    color: #ffffff;
+}
+#redes_sociais {
+    color: #ffffff;
+}
+#institucional {
+    color: #ffffff;
+}
+#link_facebook {
+    color: #ffffff;
+}
+.background {
+    background-color: #ffffff;
+}
+.produtos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+.product_header {
+    display: flex;
+    height: 60px;
+    align-items: center;
+    justify-content: space-between;
+}
+.product li:hover {
+	border-color: #C78C19;
+}
+
+.product li:active {
+	border-color: #088C19;	
+}
+
+.product li:hover h3 {
+	font-size: 34px;
+}
+
+.product h3 {
+	font-size: 30px;
+	font-weight: bold;
+    width: 100%;
+}
+.product li a img {
+    width: 100%;
+}
+.product_picture div img {
+    width: 100%;
+}
+.painelPagamento p {
+    text-align: justify;
+}
+#caixa {
+    border: 2px solid #000000;
+}
+.pagamento {
+    display: inline-flex;
+}
+.pagamento h2 {
+    text-align: left;
+    font-size: 2em;
+    color: #8a2be2;
+    width: 100%;
+}
+.pagamento legend {
+    text-align: left;
+    font-size: 15px;
+    width: 100%;
+}
+.pagamento button {
+    width: 100%;
+    margin: 0 auto;
+    padding: 14px 40px;
+    background-color: #7fff00;
+    color: #000000;
+    border-radius: 4px;
+}
+.pagamento button:active {
+    transform: rotateY(4px);
+}
+.descricao {
+    padding: 0 2em;
+    width: 100%;
+}
+.pagamento_card {
+    display: inline-flex;
+    text-align: left;
+    width: 100%;
+}
+.pagamento_codebar {
+    display: inline-flex;
+    text-align: center;
+    width: 100%;
+}
+.pagamento_fidelity {
+    display: inline-flex;
+    text-align: left;
+    width: 100%;
+}
+#buttonadiciona {
+    width: 50%;
+    margin: 0 auto;
+    background-color: #fff8dc;
+    font-weight: bold;
+    border-radius: 4px;
+}
+.product_header .filtros span {
+    font-weight: bold;
+}
+.product_header .filtros a {
+    border: none;
+    border-color: #ffffff;
+    background-color:#CCC;
+    border-radius: 1em;
+}
+#todos li .title  {
+    text-align: center;
+}
+#todos li p {
+    text-align: center;
+} 
+@media (min-width: 400px){
+    .cartao_institucional {
+        display: block;
+        position: relative;
+        text-align: right;
+        margin: 0 auto;
+        width: 100%;
+        font-size: 2em;
+    }
+}
