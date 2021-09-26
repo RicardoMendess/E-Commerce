@@ -23,7 +23,7 @@
     color: #ffffff;
 }
 .carousel {
-    max-width: 500px;
+    max-width: 700px;
     margin: auto;
 }
 #logo {
@@ -44,6 +44,10 @@
 }
 .divisor_interno {
     padding: 4em 4em;
+}
+.nav-pills .nav-link {
+    text-decoration: none;
+    color: #000000;
 }
 .col-sm {
     border: hidden;
